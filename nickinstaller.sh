@@ -8,7 +8,7 @@ espabila='\e[1;35m'
 end='\e[0m'
 opciones=0
 
-while  [ $opciones -ne 4 ] ; do
+while  [ $opciones -ne 5 ] ; do
 
 clear
 
